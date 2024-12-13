@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 added line from LOCAL REPO
 
-=======
 added line 2 from remote
->>>>>>> refs/remotes/origin/master
+
 added line from remote repo
 this is a file
