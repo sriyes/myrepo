@@ -1,2 +1,4 @@
+added line 2 from remote repo
+
 added line from remote repo
 this is a file
