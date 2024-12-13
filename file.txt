@@ -1,3 +1,4 @@
+added line from LOCAL REPO
 
 added line from remote repo
 this is a file
