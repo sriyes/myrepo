@@ -1,6 +1,0 @@
-added line from LOCAL REPO
-
-added line 2 from remote
-
-added line from remote repo
-this is a file
